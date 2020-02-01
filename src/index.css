@@ -1,0 +1,18 @@
+html,
+body,
+#root,
+.room {
+  height: 100%;
+  margin: 0px;
+  padding: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lit {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
